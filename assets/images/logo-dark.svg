@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="514.85663mm"
+   height="184.69447mm"
+   viewBox="0 0 514.85661 184.69446"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="logo-dark.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.41799165"
+     inkscape:cx="1605.2952"
+     inkscape:cy="184.21421"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="false" />
+  <defs
+     id="defs2">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-53.768473 : 10.214745 : 1"
+       inkscape:vp_y="0 : 775.71379 : 0"
+       inkscape:vp_z="241.80905 : 10.214745 : 1"
+       inkscape:persp3d-origin="94.02029 : -12.599725 : 1"
+       id="perspective1270" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-118.36858 : 11.641377 : 1"
+       inkscape:vp_y="0 : 999.99999 : 0"
+       inkscape:vp_z="254.69891 : 11.641377 : 1"
+       inkscape:persp3d-origin="68.165165 : -17.76956 : 1"
+       id="perspective1268" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-82.921312 : 6.5774809 : 1"
+       inkscape:vp_y="0 : 999.99999 : 0"
+       inkscape:vp_z="290.14619 : 6.5774809 : 1"
+       inkscape:persp3d-origin="103.61244 : -22.833456 : 1"
+       id="perspective1266" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 36.194507 : 1"
+       inkscape:vp_y="0 : 999.9999 : 0"
+       inkscape:vp_z="209.99999 : 36.194507 : 1"
+       inkscape:persp3d-origin="105 : -13.305482 : 1"
+       id="perspective326" />
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-46.630052,-22.154549)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.22524px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:18.9588;display:inline;fill:#000000;stroke-width:0.264583"
+       x="30.90609"
+       y="33.544418"
+       id="text113"
+       transform="matrix(30.004679,0,0,32.637322,-891.26976,-913.49487)"><tspan
+         x="30.90609"
+         y="33.544418"
+         id="tspan1436">KwiloDev</tspan></text>
+  </g>
+</svg>
